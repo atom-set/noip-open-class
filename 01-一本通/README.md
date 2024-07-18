@@ -11,9 +11,10 @@
 
 ### 第 2 期
 
-| 题目 | 一本通链接 | 题目类型 | 状态 |
-| [Hello,World!](../01-一本通/ch01/homework/Q-01/README.md) | [pid=1001](http://ybt.ssoier.cn:8088/problem_show.php?pid=1001) | 课后作业 | `UNDO` |
-| [输出第二个整数](../01-一本通/ch01/homework/Q-02/README.md) | [pid=1002](http://ybt.ssoier.cn:8088/problem_show.php?pid=1002) | 课后作业 | `UNDO` |
-| [对齐输出](../01-一本通/ch01/homework/Q-03/README.md) | [pid=1003](http://ybt.ssoier.cn:8088/problem_show.php?pid=1003) | 课后作业 | `UNDO` |
-| [字符三角形](../01-一本通/ch01/homework/Q-04/README.md) | [pid=1004](http://ybt.ssoier.cn:8088/problem_show.php?pid=1004) | 课后作业 | `UNDO` |
+| 题目                                                            | 一本通链接                                                      | 题目类型 | 状态   |
+| --------------------------------------------------------------- | --------------------------------------------------------------- | -------- | ------ |
+| [Hello,World!](../01-一本通/ch01/homework/Q-01/README.md)       | [pid=1001](http://ybt.ssoier.cn:8088/problem_show.php?pid=1001) | 课后作业 | `UNDO` |
+| [输出第二个整数](../01-一本通/ch01/homework/Q-02/README.md)     | [pid=1002](http://ybt.ssoier.cn:8088/problem_show.php?pid=1002) | 课后作业 | `UNDO` |
+| [对齐输出](../01-一本通/ch01/homework/Q-03/README.md)           | [pid=1003](http://ybt.ssoier.cn:8088/problem_show.php?pid=1003) | 课后作业 | `UNDO` |
+| [字符三角形](../01-一本通/ch01/homework/Q-04/README.md)         | [pid=1004](http://ybt.ssoier.cn:8088/problem_show.php?pid=1004) | 课后作业 | `UNDO` |
 | [地球人口承载力估计](../01-一本通/ch01/homework/Q-05/README.md) | [pid=1005](http://ybt.ssoier.cn:8088/problem_show.php?pid=1005) | 课后作业 | `UNDO` |
