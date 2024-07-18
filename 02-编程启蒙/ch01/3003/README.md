@@ -1,20 +1,28 @@
 # 3003：练 2.1 春节快乐
 
-时间限制: 1000 ms
+> 时间限制: 1000 ms
+> 内存限制: 65536 KB
 
-内存限制: 65536 KB
+## 题目描述
 
-【题目描述】
 一年一度的春节到啦！试着把你的春节祝福表达在代码中吧。
 
+## 输入输出要求
+
 【输入】
-无
+
+> 无
 
 【输出】
-输出一行"Happy Spring Festival!"
+
+> 输出一行"Happy Spring Festival!"
+
+## 测试用例
 
 【输入样例】
-无
+
+> 无
 
 【输出样例】
-Happy Spring Festival!
+
+> Happy Spring Festival!
