@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.json": "json",
+    "*.puml": "plantuml",
+    "*.ts": "typescriptreact",
+    "*.vue": "vue",
+    "*.js": "typescript",
+    ".env": "dockerfile",
+    "*.cpp": "cpp",
+    "iostream": "cpp"
+  }
+}
