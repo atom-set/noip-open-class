@@ -2,15 +2,13 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
+    int a, b, c;
+    int total;
 
-  int a, b, c;
-  int total;
+    cin >> a >> b >> c;
+    total = (a + a * b + a * b * c);
 
-  cin >> a >> b >> c;
-  total = (a + a * b + a * b * c);
-
-  cout << total << endl;
-  return 0;
+    cout << total << endl;
+    return 0;
 }

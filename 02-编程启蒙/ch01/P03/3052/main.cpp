@@ -1,8 +1,7 @@
-#include <iostream>
 #include <cstdio>
+#include <iostream>
 using namespace std;
-int main()
-{
+int main() {
     // 鸡: 1个头，2个脚
     // 兔: 1个头，4个脚
     // x 头

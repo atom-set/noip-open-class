@@ -1,13 +1,11 @@
 #include <iostream>
 using namespace std;
-int main()
-{
+int main() {
+    int a, b, c, res;
+    cin >> a >> b >> c;
+    res = (a + b) / c;
 
-  int a, b, c, res;
-  cin >> a >> b >> c;
-  res = (a + b) / c;
+    cout << res << endl;
 
-  cout << res << endl;
-
-  return 0;
+    return 0;
 }

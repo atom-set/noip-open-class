@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-int main()
-{
+int main() {
     // 定义变量
     double a, b, r, k;
 

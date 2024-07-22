@@ -1,13 +1,12 @@
 #include <iostream>
 using namespace std;
-int main()
-{
+int main() {
     long long x, y, r;
 
     cin >> x >> y;
 
     r = x * y;
 
-        cout << r;
+    cout << r;
     return 0;
 }

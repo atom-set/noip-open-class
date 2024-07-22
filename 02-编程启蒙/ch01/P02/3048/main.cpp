@@ -2,12 +2,11 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     double m, n;
     cin >> m;
     double a, b, c, d, e, f, g, y, h;
-    n = m / 3; // 将总数平均分成3份
+    n = m / 3;  // 将总数平均分成3份
     // 第一次分钱
     g = n / 2;
     h = n / 2;

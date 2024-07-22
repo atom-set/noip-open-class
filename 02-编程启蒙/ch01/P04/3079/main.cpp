@@ -2,8 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     double a, b, c, d, x, fx;
     cin >> x >> a >> b >> c >> d;
 

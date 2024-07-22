@@ -72,5 +72,6 @@
     "functional": "cpp",
     "iterator": "cpp",
     "utility": "cpp"
-  }
+  },
+  "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, AccessModifierOffset: -4, AlignTrailingComments: true, BinPackArguments: false, BinPackParameters: false }"
 }

@@ -2,16 +2,14 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
+    double s;
+    double a, b;
 
-  double s;
-  double a, b;
+    cin >> a >> b;
 
-  cin >> a >> b;
+    s = (a * b) / 2;
 
-  s = (a * b) / 2;
-
-  cout << "s=" << s;
-  return 0;
+    cout << "s=" << s;
+    return 0;
 }

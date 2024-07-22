@@ -2,10 +2,9 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
-  int n;
-  cin >> n;
+int main() {
+    int n;
+    cin >> n;
 
-  cout << "My height is " << n << "cm." << endl;
+    cout << "My height is " << n << "cm." << endl;
 }

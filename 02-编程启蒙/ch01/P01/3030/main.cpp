@@ -2,13 +2,11 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
+    double x;
 
-  double x;
+    cin >> x;
 
-  cin >> x;
-
-  printf("%.12f\n", x);
-  return 0;
+    printf("%.12f\n", x);
+    return 0;
 }

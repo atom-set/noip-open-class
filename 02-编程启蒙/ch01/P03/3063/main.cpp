@@ -1,13 +1,11 @@
 #include <iostream>
 using namespace std;
-int main()
-{
+int main() {
     double x, y, r;
 
     cin >> x >> y;
 
     r = y / x * 100;
 
-    
     printf("%.4f", r);
 }

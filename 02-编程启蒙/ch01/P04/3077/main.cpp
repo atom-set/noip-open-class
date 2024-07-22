@@ -1,18 +1,17 @@
-#include <iostream>
 #include <cstdio>
+#include <iostream>
 using namespace std;
 
-int main()
-{
-  double x, y, total, avg;
+int main() {
+    double x, y, total, avg;
 
-  cin >> x >> y;
+    cin >> x >> y;
 
-  total = x * 87 + y * 85;
+    total = x * 87 + y * 85;
 
-  avg = total / (x + y);
+    avg = total / (x + y);
 
-  printf("%.4f", avg);
+    printf("%.4f", avg);
 
-  return 0;
+    return 0;
 }

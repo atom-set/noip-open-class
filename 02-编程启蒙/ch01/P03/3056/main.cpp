@@ -1,20 +1,19 @@
-#include <iostream>
 #include <cstdio>
+#include <iostream>
 using namespace std;
-int main()
-{
-  // 定义变量
-  int a1, a2, n, d, r;
+int main() {
+    // 定义变量
+    int a1, a2, n, d, r;
 
-  cin >> a1 >> a2 >> n;
+    cin >> a1 >> a2 >> n;
 
-  d = a2 - a1;
+    d = a2 - a1;
 
-  // 等差数列公式 an=a1+(n-1) * d
+    // 等差数列公式 an=a1+(n-1) * d
 
-  r = a1 + (n - 1) * d;
+    r = a1 + (n - 1) * d;
 
-  cout << r << endl;
+    cout << r << endl;
 
-  return 0;
+    return 0;
 }

@@ -2,15 +2,13 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
+    int n, a, b, c;
+    int x;
 
-  int n, a, b, c;
-  int x;
+    cin >> n >> a >> b >> c;
+    x = n - (a + b - c);
 
-  cin >> n >> a >> b >> c;
-  x = n - (a + b - c);
-
-  cout << x << endl;
-  return 0;
+    cout << x << endl;
+    return 0;
 }

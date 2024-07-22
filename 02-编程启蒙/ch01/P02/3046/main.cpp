@@ -2,8 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     char c1, c2, c3, c4, c5;
     char r1, r2, r3, r4, r5;
 

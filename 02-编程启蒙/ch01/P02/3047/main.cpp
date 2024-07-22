@@ -2,8 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     double x, y, r;
     cin >> x >> r;
     x = x / 10;
